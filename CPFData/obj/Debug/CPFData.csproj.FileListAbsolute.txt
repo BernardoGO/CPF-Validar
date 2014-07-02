@@ -1,5 +1,0 @@
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\CPFData\bin\Debug\CPFData.dll
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\CPFData\bin\Debug\CPFData.pdb
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\CPFData\obj\Debug\ResolveAssemblyReference.cache
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\CPFData\obj\Debug\CPFData.dll
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\CPFData\obj\Debug\CPFData.pdb
