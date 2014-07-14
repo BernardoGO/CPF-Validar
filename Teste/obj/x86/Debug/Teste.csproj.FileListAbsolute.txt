@@ -1,7 +1,0 @@
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\Teste\bin\Debug\Teste.exe
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\Teste\bin\Debug\Teste.pdb
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\Teste\bin\Debug\CPFData.dll
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\Teste\bin\Debug\CPFData.pdb
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\Teste\obj\x86\Debug\Teste.exe
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CPFData\Teste\obj\x86\Debug\Teste.pdb
